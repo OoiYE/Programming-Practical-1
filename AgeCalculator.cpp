@@ -4,7 +4,8 @@ using namespace std;
 int main() {
 
 	int current_year, birth_year;
-	current_year = 2024;
+	cout << "Current year is: ";
+	cin >> current_year;
 	cout << "Your birth year is: ";
 	cin >> birth_year;
 
